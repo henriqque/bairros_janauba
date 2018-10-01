@@ -1,0 +1,11 @@
+{
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [ [ 
+            [ lon , lat ] , 
+            [ -43.000 , -15.0000 ] , 
+            [ -43.000 , -15.0000 ] 
+        ] ]
+    },
+    "nome": "Nome do Bairro"
+}
