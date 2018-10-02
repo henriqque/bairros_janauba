@@ -1,8 +1,8 @@
 { 
     "location":{ 
         "type": "Point", 
-        "coordinates": [ lon, lat ]
+        "coordinates": [ -15.816248, -43.307838 ]
     },
-    "matricula": "000000" 
+    "matricula": "141638" 
 
 }
